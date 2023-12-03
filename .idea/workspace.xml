@@ -45,6 +45,10 @@
     <option name="minorVersion" value="2.4" />
   </component>
   <component name="ProjectId" id="2YzFxw5aYn57fXs0gTAZRIiEZw5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -53,6 +57,11 @@
     "cidr.known.project.marker": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
@@ -73,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701520751464</updated>
-      <workItem from="1701520752726" duration="5407000" />
+      <workItem from="1701520752726" duration="10677000" />
     </task>
     <servers />
   </component>
